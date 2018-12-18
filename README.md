@@ -1,5 +1,5 @@
 # Simple node-ts
-A simple demo to show how to use typescript in node.js
+Example of how to use typescript in node.js
 
 # StartUp
 ```javascript
